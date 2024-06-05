@@ -1,8 +1,13 @@
-👋 Hi, I'm Guilherme Eugênio. \n
-👀 I’m interested in mobile development and machine learning. \n
-🌱 Currently learning about functional safety engineering. \n
-💼 Working as an engineer in functional safety at Ford. \n
-🎓 Studying Bachelor of Science in Exact and Technological Sciences at UFRB. \n
+👋 Hi, I'm Guilherme Eugênio. 
+
+👀 I’m interested in mobile development and machine learning.
+
+🌱 Currently learning about functional safety engineering.
+
+💼 Working as an engineer in functional safety at Ford.
+
+🎓 Studying Bachelor of Science in Exact and Technological Sciences at UFRB.
+
 💡 Passionate about innovation and technology.
 
 <!---
